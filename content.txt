@@ -1,18 +1,17 @@
-{logo}
-The Solar System
-
-[Stars]
-[Terrestrial planets]
-[Gas giants]
-[Dwarf planets]
-[Asteroids]
-[Comets]
-
----
-
-{banner}
-The Solar System—our home in the stars
+<img>
+<head>The Solar System</head>
+<ul>[Stars]</ul>
+<ul>[Terrestrial planets]</ul>
+<ul>[Gas giants]</ul>
+<ul>[Dwarf planets]</ul>
+<ul>[Asteroids]</ul>
+<ul>[Comets]</ul>
 
 ---
 
-The Solar System is the gravitationally bound system comprising the Sun and the planetary system that orbits it.
+<img src="images/banner.svg" alt="">
+<article>The Solar System—our home in the stars</article>
+
+---
+
+<main>The Solar System is the gravitationally bound system comprising the Sun and the planetary system that orbits it.</main>
